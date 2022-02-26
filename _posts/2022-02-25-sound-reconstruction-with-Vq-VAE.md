@@ -37,6 +37,9 @@ This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in 
   <audio src="download.wav" controls preload="metadata"></audio>
   
   
+  ![image](https://drive.google.com/uc?export=view&id=1732KrnQybOu00ldmJuf73aUyEiDnZ0jN)
+  
+  
   
 ### And Some Famous Deep Learning Architectures Like 🏛️:
 
