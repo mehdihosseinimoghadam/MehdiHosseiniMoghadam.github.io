@@ -12,6 +12,10 @@ image: ./images/vg.jpeg
 
 <img src="./images/vg.jpeg" width="800px" height="400px"/>
 
+
+<img src="./images/architecture.jpeg" width="800px" height="400px"/>
+
+
 My reaserch lies in Natural Language Processing, Automatic Speech Recognition, Speech Synthesis, Topological Data Analysis, Graph neural networks, Deep Learning. In particular, I am interested in developing models and reaserch for low resource languages for automatic speech recognition like Wav2vec, sound reconstruction through VAEs and Vq-VAEs, medical domain modeling and medical phynotyping, knowledge graphs for medical modeling, chatbots and virtual assistants.
 
 
