@@ -14,7 +14,7 @@ image: architecture.jpeg
 
 This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in Pytorch
 
-![sr](https://user-images.githubusercontent.com/53477752/155848023-440cbfb9-8104-4e01-a610-fe9c23f37f49.gif)
+![elijah-m-henderson-xgT3iQDIijU-unsplash](https://user-images.githubusercontent.com/53477752/155848248-49f62114-0ff2-4605-927c-6d15c1726264.jpg)
 
 
 <!--
