@@ -12,13 +12,15 @@ image: vg.jpeg
 My reaserch lies in Natural Language Processing, Automatic Speech Recognition, Speech Synthesis, Topological Data Analysis, Graph neural networks, Deep Learning. In particular, I am interested in developing models and reaserch for low resource languages for automatic speech recognition like Wav2vec, sound reconstruction through VAEs and Vq-VAEs, medical domain modeling and medical phynotyping, knowledge graphs for medical modeling, chatbots and virtual assistants.
 
 
-<embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">
+<embed src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/CV2.pdf" type="application/pdf" width="800px" height="800px">
 
 
- Hubbies
+Hubbies
 ======
 
-By the way I love tennis 🎾, running, learning new languages, trying new cuisines, reading Charles Dickens books, and talking about paintings specially Van Gogh
+By the way I love tennis 🎾, running, learning new languages, trying new cuisines, reading Charles Dickens books, and talking about paintings 🎨 specially Van Gogh
+
+
 <!-- 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
