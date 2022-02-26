@@ -17,6 +17,8 @@ This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in 
 ![elijah-m-henderson-xgT3iQDIijU-unsplash](https://user-images.githubusercontent.com/53477752/155848248-49f62114-0ff2-4605-927c-6d15c1726264.jpg)
 
 
+
+
 <!--
 
 <embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">
@@ -30,14 +32,16 @@ This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in 
 <img src="/master/images/architecture.jpeg" width="800px" height="400px"/>
 -->
 
-### This Repo Contains Implementation of Complex Valued Neural Networks in Pytorch including 🧱:
-- Complex Linear Layer
-- Complex Convolution2d layer
-- Complex ConvolutionTrans2d layer
-- Complex BatchNorm2d layer
-- Complex MaxPool2d layer
-- Complex AvePool2d layer
-- Complex LSTM layer
+### Dataset:
+  To train vq-vae model I used [speech commands tensorflow](https://www.kaggle.com/luantm/speech-commands-tensorflow) dataset, for simplicity I just used **Right**
+  wav files, some wav samples with their spectrograms can be found below:
+  
+  ![elijah-m-henderson-xgT3iQDIijU-unsplash](https://user-images.githubusercontent.com/53477752/155848734-520348c2-d0d3-498c-aa6c-70c2cf34b02f.jpg)
+
+  <audio src="./images/download.wav" controls preload="metadata"></audio>
+  
+  
+  
 ### And Some Famous Deep Learning Architectures Like 🏛️:
 
 
