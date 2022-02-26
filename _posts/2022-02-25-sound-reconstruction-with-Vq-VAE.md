@@ -39,7 +39,7 @@ This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in 
 ![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
 
 
-  <audio src="download.wav" controls preload="metadata"></audio>
+  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download.wav" controls preload="metadata"></audio>
   
   
   
