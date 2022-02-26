@@ -13,11 +13,11 @@ tags:
   - Complex Valued VGG11, VGG13, VGG16
   - Complex Valued LeNet
   - Complex Valued Google Inception
-image: ./images/architecture.png
+image: ./images/architecture.jpeg
 ---
 
 
-<img src="./images/architecture.png" width="800px" height="400px"/>
+<img src="./images/architecture.jpeg" width="800px" height="400px"/>
 
 
 ##### This Repo Contains Implementation of Complex Valued Neural Networks in Pytorch including 🧱:
