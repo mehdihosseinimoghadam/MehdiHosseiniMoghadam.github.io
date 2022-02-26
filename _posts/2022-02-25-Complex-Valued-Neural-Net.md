@@ -78,7 +78,9 @@ Complex LSTM layer | `CLSTM` | [complex_neural_net](https://github.com/mehdihoss
 
 Architectures 🏛️
 ----------
- Layer  | Class Name |  File | 
+
+
+ Layer                | Class Name            |  File                 | 
 --------------------- | :-------------------: | :-------------------- | 
 Complex Valued VGG11, VGG13, VGG16 | `Complex_VGG_net` |  [Complex_Vgg_net](https://github.com/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/Complex_Vgg_net.py) |
 Complex Valued LeNet | `Complex_LeNet` | [Complex_LeNe](https://github.com/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/Complex_LeNet.py) |
