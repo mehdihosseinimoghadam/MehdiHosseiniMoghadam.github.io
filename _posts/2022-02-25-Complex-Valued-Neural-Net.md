@@ -18,12 +18,12 @@ image: architecture.jpeg
 
 ![architecture](https://user-images.githubusercontent.com/53477752/155836808-2614b51c-c1c4-45a8-b368-f13c3f93636f.png)
 
-<img src="architecture.jpeg" width="800px" height="400px"/>
+<!-- <img src="architecture.jpeg" width="800px" height="400px"/> 
 
 
 
 <img src="/master/images/architecture.jpeg" width="800px" height="400px"/>
-
+-->
 
 ##### This Repo Contains Implementation of Complex Valued Neural Networks in Pytorch including 🧱:
 - Complex Linear Layer
