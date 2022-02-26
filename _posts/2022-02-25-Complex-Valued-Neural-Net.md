@@ -13,6 +13,7 @@ tags:
   - Complex Valued VGG11, VGG13, VGG16
   - Complex Valued LeNet
   - Complex Valued Google Inception
+image: ./images/architecture.png
 ---
 
 
