@@ -54,15 +54,15 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 ![picture](https://drive.google.com/uc?export=view&id=1a---6D9Nzvf7VJpfR_zDGujXSpJwG6cJ)
 
 
-- Reshaping: First of all we need to reshape input from $(n, h, w, d)$ to $(n*h*w, d)$ .
+- Reshaping: First of all we need to reshape input from $(n, h, w, d)$ to $(n \times h \times w, d)$ .
 
-- Calculating Distances: For each of d-dimensional vectors, we calculate their distance from each $k$, d-dimensional vectors in codebook and get a matrix of $(n*h*w, k)$.
+- Calculating Distances: For each of d-dimensional vectors, we calculate their distance from each $k$, d-dimensional vectors in codebook and get a matrix of $(n \times h \times w, k)$.
 
 - Argmin: Next for each row of the matrix, we apply argmin function to get the nearest vector index from codebook and do one-hot encoding no each row (in fact the value of the nearest vector will be 1 and rest would be 0).
 
-- Index from Codebook: After that we multiply the one-hotted matrix to the whole codebook and we get a matrix of $(n*h*w, d)$ dimension.
+- Index from Codebook: After that we multiply the one-hotted matrix to the whole codebook and we get a matrix of $(n \times h \times w, d)$ dimension.
 
-- Finally we reshape $(n*h*w, d)$ to $(n, h, w, d)$ and give it to the decoder to reconstruct the input data 
+- Finally we reshape $(n \times h \times w, d)$ to $(n, h, w, d)$ and give it to the decoder to reconstruct the input data 
 
 
 
