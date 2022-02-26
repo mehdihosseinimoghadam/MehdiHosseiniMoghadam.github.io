@@ -34,7 +34,7 @@ This Repo Contains Implementation of Complex Valued Neural Networks in Pytorch
 <img src="/master/images/architecture.jpeg" width="800px" height="400px"/>
 -->
 
-##### This Repo Contains Implementation of Complex Valued Neural Networks in Pytorch including 🧱:
+### This Repo Contains Implementation of Complex Valued Neural Networks in Pytorch including 🧱:
 - Complex Linear Layer
 - Complex Convolution2d layer
 - Complex ConvolutionTrans2d layer
@@ -42,7 +42,7 @@ This Repo Contains Implementation of Complex Valued Neural Networks in Pytorch
 - Complex MaxPool2d layer
 - Complex AvePool2d layer
 - Complex LSTM layer
-##### And Some Famous Deep Learning Architectures Like 🏛️:
+### And Some Famous Deep Learning Architectures Like 🏛️:
 
 
 - Complex Valued VGG11, VGG13, VGG16
