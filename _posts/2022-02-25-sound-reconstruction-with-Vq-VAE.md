@@ -36,7 +36,8 @@ This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in 
   To train vq-vae model I used [speech commands tensorflow](https://www.kaggle.com/luantm/speech-commands-tensorflow) dataset, for simplicity I just used **Right**
   wav files, some wav samples with their spectrograms can be found below:
   
-  ![elijah-m-henderson-xgT3iQDIijU-unsplash](https://user-images.githubusercontent.com/53477752/155848734-520348c2-d0d3-498c-aa6c-70c2cf34b02f.jpg)
+![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
+
 
   <audio src="./images/download.wav" controls preload="metadata"></audio>
   
