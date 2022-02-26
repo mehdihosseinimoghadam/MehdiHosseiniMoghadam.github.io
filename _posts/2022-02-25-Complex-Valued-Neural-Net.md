@@ -18,6 +18,12 @@ image: architecture.jpeg
 
 ![architecture](https://user-images.githubusercontent.com/53477752/155836808-2614b51c-c1c4-45a8-b368-f13c3f93636f.png)
 
+
+
+<embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">
+
+<audio src="https://keithito.com/LJ-Speech-Dataset/LJ025-0076.wav" controls preload="metadata"></audio>
+
 <!-- <img src="architecture.jpeg" width="800px" height="400px"/> 
 
 
