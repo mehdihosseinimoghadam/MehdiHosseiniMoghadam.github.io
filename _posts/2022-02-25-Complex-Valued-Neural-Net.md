@@ -34,6 +34,7 @@ image: architecture.jpeg
 - Complex LSTM layer
 ##### And Some Famous Deep Learning Architectures Like 🏛️:
 
+
 - Complex Valued VGG11, VGG13, VGG16
 - Complex Valued LeNet
 - Complex Valued Google Inception
