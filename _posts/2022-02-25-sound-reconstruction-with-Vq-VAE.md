@@ -1,5 +1,5 @@
 ---
-title: 'Complex Neural Networks 🧠'
+title: 'Vq-VAE Methods for Sound Reconstruction'
 date: 2022-02-25
 permalink: /posts/2022/02/Complex-Valued-Neural-Net/
 tags:
@@ -12,9 +12,9 @@ tags:
 image: architecture.jpeg
 ---
 
-This Repo Contains Implementation of vq-VAE methods for sound reconstruction in Pytorch
+This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in Pytorch
 
-![sound-wave-wave](https://user-images.githubusercontent.com/53477752/155847816-b82b2ca3-e8af-4883-b7b4-5cba43373d7a.gif)
+![sound-wave-wave](https://user-images.githubusercontent.com/53477752/155847816-b82b2ca3-e8af-4883-b7b4-5cba43373d7a.gif =300x6000)
 
 
 
