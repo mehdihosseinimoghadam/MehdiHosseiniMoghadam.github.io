@@ -22,7 +22,7 @@ This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in 
 Signal Processing with Python and Librosa
 
 
-#1) Voice Reconstruction Using Vq-VAE
+## Voice Reconstruction Using Vq-VAE
 
 This notebook proposes a method on how to reconstruct speech using vq-vae which has been first introduced by [ Oord et. al](https://arxiv.org/abs/1711.00937).
 
@@ -32,12 +32,12 @@ This notebook proposes a method on how to reconstruct speech using vq-vae which 
 
 
 
-#2) Vq-VAE vs VAE
+## Vq-VAE vs VAE
 Main difference between Vq-VAE & VAE is that VAE learns a continuous latent representation of a given dataset, but Vq-VAE learns a discrete latent representation of dataset.  
 
 
 
-#3) Architecture
+## Architecture
 
 
 ![picture](https://drive.google.com/uc?export=view&id=1hVMCRd4ZeBMM581iLa5ZKV1C-gT4IUsQ)
@@ -49,15 +49,9 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 
 - Finally decoder takes $Z_{q}$ and reconstructs the input $X$.
 
-#4) Detailed View on Vq-VAE Architecture
-
-
-
+## Detailed View on Vq-VAE Architecture
 
 ![picture](https://drive.google.com/uc?export=view&id=1a---6D9Nzvf7VJpfR_zDGujXSpJwG6cJ)
-
-
-
 
 
 - Reshaping: First of all we need to reshape input from $(n, h, w, d)$ to $(n*h*w, d)$ .
@@ -72,7 +66,7 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 
 
 
-#5) Some High Resolution Constructed Images
+##  Some High Resolution Constructed Images
 
 
 ![picture](https://drive.google.com/uc?export=view&id=1rAicXUoCWrLEKtA-Wyvwj2ydNhsbQzk3)
