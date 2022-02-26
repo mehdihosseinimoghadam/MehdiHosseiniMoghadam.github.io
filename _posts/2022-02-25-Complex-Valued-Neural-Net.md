@@ -3,16 +3,16 @@ title: 'Complex Neural Networks 🧠'
 date: 2022-02-25
 permalink: /posts/2022/02/Complex-Valued-Neural-Net/
 tags:
-	- Complex Linear Layer
-	- Complex Convolution2d layer
-	- Complex ConvolutionTrans2d layer
-	- Complex BatchNorm2d layer
-	- Complex MaxPool2d layer
-	- Complex AvePool2d layer
-	- Complex LSTM layer
-	- Complex Valued VGG11, VGG13, VGG16
-	- Complex Valued LeNet
-	- Complex Valued Google Inception
+  - Complex Linear Layer
+  - Complex Convolution2d layer
+  - Complex ConvolutionTrans2d layer
+  - Complex BatchNorm2d layer
+  - Complex MaxPool2d layer
+  - Complex AvePool2d layer
+  - Complex LSTM layer
+  - Complex Valued VGG11, VGG13, VGG16
+  - Complex Valued LeNet
+  - Complex Valued Google Inception
 ---
 
 
