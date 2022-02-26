@@ -19,8 +19,6 @@ tags:
 <img src="./images/architecture.png" width="800px" height="400px"/>
 
 
----
-
 ##### This Repo Contains Implementation of Complex Valued Neural Networks in Pytorch including 🧱:
 - Complex Linear Layer
 - Complex Convolution2d layer
