@@ -21,11 +21,11 @@ This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in 
 
 <!--
 
-<embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">. -->
+<embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">.
 
 <audio src="https://keithito.com/LJ-Speech-Dataset/LJ025-0076.wav" controls preload="metadata"></audio>
 
-
+ -->
 
 ### Dataset:
   To train vq-vae model I used [speech commands tensorflow](https://www.kaggle.com/luantm/speech-commands-tensorflow) dataset, for simplicity I just used **Right**
@@ -34,7 +34,7 @@ This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in 
 ![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
 
 
-  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download.wav" controls preload="metadata"></audio>
+  <audio src="download.wav" controls preload="metadata"></audio>
   
   
   
