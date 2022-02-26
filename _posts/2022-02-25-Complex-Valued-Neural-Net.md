@@ -20,6 +20,7 @@ image: architecture.jpeg
 
 
 
+
 <embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">
 
 <audio src="https://keithito.com/LJ-Speech-Dataset/LJ025-0076.wav" controls preload="metadata"></audio>
