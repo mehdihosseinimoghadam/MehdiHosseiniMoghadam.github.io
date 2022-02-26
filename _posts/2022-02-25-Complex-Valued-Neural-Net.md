@@ -17,7 +17,7 @@ image: ./images/architecture.jpeg
 ---
 
 
-<img src="././images/architecture.jpeg" width="800px" height="400px"/>
+<img src="architecture.jpeg" width="800px" height="400px"/>
 
 
 ##### This Repo Contains Implementation of Complex Valued Neural Networks in Pytorch including 🧱:
