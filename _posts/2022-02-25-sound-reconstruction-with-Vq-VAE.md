@@ -21,16 +21,11 @@ This Repo Contains Implementation of Vq-VAE methods for sound reconstruction in 
 
 <!--
 
-<embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">
+<embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">. -->
 
 <audio src="https://keithito.com/LJ-Speech-Dataset/LJ025-0076.wav" controls preload="metadata"></audio>
 
- <img src="architecture.jpeg" width="800px" height="400px"/> 
 
-
-
-<img src="/master/images/architecture.jpeg" width="800px" height="400px"/>
--->
 
 ### Dataset:
   To train vq-vae model I used [speech commands tensorflow](https://www.kaggle.com/luantm/speech-commands-tensorflow) dataset, for simplicity I just used **Right**
