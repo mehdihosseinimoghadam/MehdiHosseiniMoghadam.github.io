@@ -1,7 +1,7 @@
 ---
 title: 'Vq-VAE Methods for Sound Reconstruction 🎻'
 date: 2022-02-25
-permalink: /posts/2022/02/Complex-Valued-Neural-Net/
+permalink: /posts/2022/02/sound-reconstruction-with-Vq-VAE/     
 tags:
   - Sound Reconstruction
   - VAE
