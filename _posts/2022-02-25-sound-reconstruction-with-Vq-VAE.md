@@ -105,7 +105,7 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 
 Sample1            |  Sample2
 :-------------------------:|:-------------------------:
-![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png) |  ![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
+![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png) |  ![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)|
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download.wav?raw=true" controls preload="metadata"></audio>|<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download.wav?raw=true" controls preload="metadata"></audio>
 
 
