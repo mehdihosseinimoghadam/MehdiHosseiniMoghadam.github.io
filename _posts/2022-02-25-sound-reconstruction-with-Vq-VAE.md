@@ -107,7 +107,7 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 </audio>
 
 # Use in the post as
-{% include embed-audio.html src="download.wav" %}
+{% include embed-audio.html src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/download.wav" %}
   
   
   
