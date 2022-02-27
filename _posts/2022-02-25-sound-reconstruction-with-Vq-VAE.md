@@ -81,18 +81,16 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 <!-- 
 <embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">.
 
- -->
+ -->![download (2)](https://user-images.githubusercontent.com/53477752/155896723-51ad44d7-46ed-466a-8566-71a48a9e8c59.png)
+ 
+<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>
 
-Title 1               | Title 2               | 
---------------------- | :-------------------: | 
+---
+
 ![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
-              | ![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
-           | 
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihmblog.github.io/blob/gh-pages/assets/img/samples_1.wav?raw=true" controls preload="metadata"></audio>
- | <audio src="https://github.com/mehdihosseinimoghadam/mehdihmblog.github.io/blob/gh-pages/assets/img/samples_1.wav?raw=true" controls preload="metadata"></audio>
- | 
-lorem ipsum dolor sit | lorem ipsum dolor sit | 
-lorem ipsum dolor sit | lorem ipsum dolor sit | 
+
+<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download.wav?raw=true" controls preload="metadata"></audio>
+
 
 
 
