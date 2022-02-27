@@ -95,11 +95,20 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
   <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/Pitbull-Bon-Bon-320.mp3" controls preload="metadata"></audio>
   
   
-  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/Pitbull-Bon-Bon-320.mp3" controls preload></audio>
-  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/Pitbull-Bon-Bon-320.mp3" controls preload></audio>
+<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/Pitbull-Bon-Bon-320.mp3" controls preload></audio>
+<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/Pitbull-Bon-Bon-320.mp3" controls preload></audio>
   
   
-  ![wav](https://drive.google.com/uc?export=view&id=1bHCXimcGRiYFxGputb4RPrxywK3NYJy7)
+
+  # _include/embed-audio.html
+<audio controls>
+  <source src="{{ include.src }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+# Use in the post as
+{% include embed-audio.html src="download.wav" %}
+  
   
   
 
