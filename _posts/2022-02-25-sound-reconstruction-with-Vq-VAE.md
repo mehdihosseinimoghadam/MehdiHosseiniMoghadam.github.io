@@ -95,6 +95,10 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
   <audio src="download.wav" controls preload="metadata"></audio>
   
   
+  <audio src="./images/download.wav" controls preload></audio>
+  <audio src="download.wav" controls preload></audio>
+  
+  
   ![wav](https://drive.google.com/uc?export=view&id=1bHCXimcGRiYFxGputb4RPrxywK3NYJy7)
   
   
