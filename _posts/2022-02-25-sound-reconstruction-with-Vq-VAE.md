@@ -81,7 +81,16 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 <!-- 
 <embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">.
 
- -->![download (2)](https://user-images.githubusercontent.com/53477752/155896723-51ad44d7-46ed-466a-8566-71a48a9e8c59.png)
+ -->
+
+
+
+### Dataset:
+  To train vq-vae model I used [speech commands tensorflow](https://www.kaggle.com/luantm/speech-commands-tensorflow) dataset, for simplicity I just used **Right**
+  wav files, some wav samples with their spectrograms can be found below:
+  
+
+![download (2)](https://user-images.githubusercontent.com/53477752/155896723-51ad44d7-46ed-466a-8566-71a48a9e8c59.png)
  
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>
 
@@ -94,14 +103,6 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 
 
 
-
-### Dataset:
-  To train vq-vae model I used [speech commands tensorflow](https://www.kaggle.com/luantm/speech-commands-tensorflow) dataset, for simplicity I just used **Right**
-  wav files, some wav samples with their spectrograms can be found below:
-  
-![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
-
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihmblog.github.io/blob/gh-pages/assets/img/samples_1.wav?raw=true" controls preload="metadata"></audio>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/Complex_Deep_Neural_Network.ipynb)
