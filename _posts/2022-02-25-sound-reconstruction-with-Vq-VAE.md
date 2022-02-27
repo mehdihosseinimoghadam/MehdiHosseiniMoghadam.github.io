@@ -78,14 +78,21 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 [2] https://arxiv.org/pdf/1711.00937.pdf
 
 
-
+<!-- 
 <embed src="https://arxiv.org/pdf/1703.10135.pdf" type="application/pdf" width="800px" height="800px">.
 
+ -->
+
+Title 1               | Title 2               | 
+--------------------- | :-------------------: | 
+![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
+              | ![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
+           | 
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihmblog.github.io/blob/gh-pages/assets/img/samples_1.wav?raw=true" controls preload="metadata"></audio>
-
-<audio src="https://www.dropbox.com/home?preview=samples_1.wav" controls preload="metadata"></audio>
-
-
+ | <audio src="https://github.com/mehdihosseinimoghadam/mehdihmblog.github.io/blob/gh-pages/assets/img/samples_1.wav?raw=true" controls preload="metadata"></audio>
+ | 
+lorem ipsum dolor sit | lorem ipsum dolor sit | 
+lorem ipsum dolor sit | lorem ipsum dolor sit | 
 
 
 
@@ -96,18 +103,7 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
   
 ![wav1](https://user-images.githubusercontent.com/53477752/155848854-0b8e1b63-4384-464a-be2c-c54b81cdd852.png)
 
-
-  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/Pitbull-Bon-Bon-320.mp3" controls preload="metadata"></audio>
-  
-  
-<audio src="https://www.dropbox.com/s/mxhc3m62tg7y0gg/samples_1.wav" controls preload></audio>
-<audio src="https://www.dropbox.com/home?preview=samples_1.wav" controls preload></audio>
-  
-  
-  <iframe src="https://www.dropbox.com/s/mxhc3m62tg7y0gg/samples_1.wav?dl=0" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
-
-  
-  <iframe src="https://www.dropbox.com/s/mxhc3m62tg7y0gg/samples_1.wav" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
+<audio src="https://github.com/mehdihosseinimoghadam/mehdihmblog.github.io/blob/gh-pages/assets/img/samples_1.wav?raw=true" controls preload="metadata"></audio>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/Complex_Deep_Neural_Network.ipynb)
