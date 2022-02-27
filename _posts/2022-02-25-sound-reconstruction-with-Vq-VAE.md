@@ -99,19 +99,10 @@ Main difference between Vq-VAE & VAE is that VAE learns a continuous latent repr
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/Pitbull-Bon-Bon-320.mp3" controls preload></audio>
   
   
+  <iframe src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/Pitbull-Bon-Bon-320.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
 
-  # _include/embed-audio.html
-<audio controls>
-  <source src="{{ include.src }}" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-# Use in the post as
-{% include embed-audio.html src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/_posts/download.wav" %}
   
-  
-  
-
+  <iframe src="Pitbull-Bon-Bon-320.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/Complex_Deep_Neural_Network.ipynb)
