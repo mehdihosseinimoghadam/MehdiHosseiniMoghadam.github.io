@@ -12,6 +12,6 @@ In this article we describe an application of Machine Learning (ML) and Linguist
 
 [Download paper here](https://arxiv.org/pdf/1810.06898.pdf)
 
-<embed src="https://arxiv.org/pdf/1810.06898.pdf" type="application/pdf" width="800px" height="800px">
+<embed src="https://arxiv.org/pdf/1810.06898.pdf?raw=true" type="application/pdf" width="800px" height="800px">
 
 Recommended citation: Moghadam, Mehdi Hosseini, and Bardia Panahbehagh. "Creating a New Persian Poet Based on Machine Learning." arXiv preprint arXiv:1810.06898 (2018).
