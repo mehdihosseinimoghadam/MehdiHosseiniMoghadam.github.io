@@ -24,11 +24,9 @@ Signal Processing with Python and Librosa
 
 ## Voice Reconstruction Using Vq-VAE
 
-This notebook proposes a method on how to reconstruct speech using vq-vae which has been first introduced by [ Oord et. al](https://arxiv.org/abs/1711.00937).
+This notebook proposes a method on how to reconstruct speech using vq-vae which has been first introduced by Oord et. al
+<embed src="https://arxiv.org/pdf/1711.00937.pdf" type="application/pdf" width="800px" height="800px">
 
-
-
-![picture](https://drive.google.com/uc?export=view&id=1XFC5_OYnwge7g14jmKZqHaBwuajsVDyP)
 
 
 
