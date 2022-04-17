@@ -15,6 +15,9 @@ tags:
   - Catalan Speech Vocoder
   - Catalan Tacotron
   - Catalan FastSpeech
+  - Catalan Speech To Text
+  - Catalan ASR
+  - Catalan Tacotron2
 image: logan-armstrong-hVhfqhDYciU-unsplash.jpg
 ---
 
