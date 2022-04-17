@@ -1,7 +1,7 @@
 ---
 title: 'Catalan Text To Speech 🇪🇸'
 date: 2022-04-17
-permalink: /posts/2022/02/Complex-Valued-Neural-Net/
+permalink: /posts/2022/04/Catalan-Text-To-Speech/
 tags:
   - Catalan Text To Speech
   - Catalan TTS
