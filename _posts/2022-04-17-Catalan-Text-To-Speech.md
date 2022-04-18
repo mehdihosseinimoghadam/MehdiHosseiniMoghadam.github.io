@@ -52,9 +52,9 @@ Només s'ha descrit a la seva localitat tipus | <audio src="https://github.com/
 
 Text                 | WaveRNN            |  
 --------------------- | :-------------------: | 
-L'àliga no caça mosques. | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/L'àliga no caça mosques.wav?raw=true" controls preload="metadata"></audio>  | 
+L'àliga no caça mosques. | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/L’àliga no caça mosques.wav?raw=true" controls preload="metadata"></audio>  | 
 Entrar per una orella i sortir per l'altre.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Entrar per una orella i sortir per l'altre.wav?raw=true" controls preload="metadata"></audio>  | 
-La paraula bona molt val i poc costa.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La paraula bona molt val i poc costa.wav?raw=true" controls preload="metadata"></audio>  | 
+La paraula bona molt val i poc costa.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La paraula bona molt val i poc costa .wav?raw=true" controls preload="metadata"></audio>  | 
 Quan el gat no hi es, les rates ballen.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Quan el gat no hi es, les rates ballen.wav?raw=true" controls preload="metadata"></audio>  | 
 Val més mala avinença que bona sentencia.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Val més mala avinença que bona sentencia.wav?raw=true" controls preload="metadata"></audio>  | 
 El president Trump es va reunir amb altres líders a la conferència del Grup dels 20.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/El president Trump es va reunir amb altres líders a la conferència del Grup dels 20.wav?raw=true" controls preload="metadata"></audio>  | 
