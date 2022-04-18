@@ -58,28 +58,28 @@ Checkpoint                 | Grount Truth            |  WaveRNN              |  
 
 Text.    |WaveRNN            |  MelGAN              | 
 :------------------: | :-------------------: | :-------------------- | 
-Hola i com estàs?|
+|
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | 
  
 De l'arbre dolent no esperis bon fruit|
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |
  
-De mica en mica s'omple la pica i de gota en gota s'omple la bota.
+
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | 
 
 Científics del laboratori del CERN diuen que han descobert una nova partícula
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |
 
-El president Trump es va reunir amb altres líders a la conferència del Grup dels 20.
+
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |
 
 El temps és or
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | 
 
-Entrar per una orella i sortir per l'altre.
+
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | 
 
-L'àliga no caça mosques.
+
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>| <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  | 
 
 
@@ -99,11 +99,12 @@ L'àliga no caça mosques.
 
 Text                 | WaveRNN            |  MelGAN              | 
 --------------------- | :-------------------: | :-------------------- | 
- El president Trump es va reunir amb altres líders a la conferència del Grup dels 20.| <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>   | 
-Complex Convolution2d layer | `CConv2d` | [complex_neural_net](https://github.com/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/complex_neural_net.py) | 
-Complex ConvolutionTrans2d layer  | `CConvTrans2d` | [complex_neural_net](https://github.com/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/complex_neural_net.py) | 
-Complex BatchNorm2d layer | `CBatchnorm` | [complex_neural_net](https://github.com/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/complex_neural_net.py) |
-Complex MaxPool2d layer | `CMaxPool2d` | [complex_neural_net](https://github.com/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/complex_neural_net.py) |
-Complex AvePool2d layer | `CAvgPool2d` | [complex_neural_net](https://github.com/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/complex_neural_net.py) |
-Complex LSTM layer | `CLSTM` | [complex_neural_net](https://github.com/mehdihosseinimoghadam/Complex-Neural-Networks/blob/main/complex_neural_net.py) |
-
+L'àliga no caça mosques. | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>   | 
+Entrar per una orella i sortir per l'altre.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  | 
+La paraula bona molt val i poc costa.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  | 
+Quan el gat no hi es, les rates ballen.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  | 
+Val més mala avinença que bona sentencia.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |
+Quan el gat no hi es, les rates ballen.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  | 
+El president Trump es va reunir amb altres líders a la conferència del Grup dels 20.|  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |  
+De mica en mica s'omple la pica i de gota en gota s'omple la bota. |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  | 
+Científics del laboratori del CERN diuen que han descobert una nova partícula. |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |
