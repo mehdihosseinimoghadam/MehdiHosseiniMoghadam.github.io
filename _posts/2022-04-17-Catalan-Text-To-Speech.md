@@ -56,13 +56,12 @@ Checkpoint                 | Grount Truth            |  WaveRNN              |  
 
 
 
-WaveRNN            |  MelGAN              | 
- :-------------------: | :-------------------- | 
-
-Hola i com estàs?
+Text.    |WaveRNN            |  MelGAN              | 
+:------------------: | :-------------------: | :-------------------- | 
+Hola i com estàs?|
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | 
  
-De l'arbre dolent no esperis bon fruit
+De l'arbre dolent no esperis bon fruit|
 <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |
  
 De mica en mica s'omple la pica i de gota en gota s'omple la bota.
