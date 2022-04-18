@@ -45,52 +45,6 @@ Checkpoint                 | Grount Truth            |  WaveRNN              |  
 
 
 
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-Text.    |WaveRNN            |  MelGAN              | 
-:------------------: | :-------------------: | :-------------------- | 
-|
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | 
- 
-De l'arbre dolent no esperis bon fruit|
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  |
- 
-
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | 
-
-Científics del laboratori del CERN diuen que han descobert una nova partícula
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |
-
-
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |
-
-El temps és or
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | 
-
-
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio> | 
-
-
-<audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>| <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/download%20(1).wav?raw=true" controls preload="metadata"></audio>  | 
-
-
-
-
-
-
-
-
-
-
 ------------------------------------------------------------------------------------
 
 
