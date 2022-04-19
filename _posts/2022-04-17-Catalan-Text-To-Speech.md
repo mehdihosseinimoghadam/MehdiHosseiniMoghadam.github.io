@@ -63,10 +63,18 @@ Científics del laboratori del CERN diuen que han descobert una nova partícula.
 La normativa del català és establerta, d'una manera general, per l'Institut d'Estudis Catalans, que pren com a base l'ortografia, la gramàtica i el diccionari elaborats per Pompeu Fabra, i per a les variants específiques del valencià, per l'Acadèmia Valenciana de la Llengua, que pren com a base les Normes de Castelló, és a dir, l'ortografia de Pompeu Fabra però més adaptada a la pronunciació del català occidental i als trets que caracteritzen les varietats valencianes.| <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La%20normativa%20del%20catala%CC%80%20.wav?raw=true" controls preload="metadata"></audio>  | 
 
 
+\
+\
+\
+\
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+\
+\
+\
+\
 
 
 
@@ -78,6 +86,4 @@ Text                  | Normal (Speed = 1)         |  Fast(Speed = 1.5)         
 Les persones es troben, les muntanyes no.| <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Les%20persones%20es%20troben%2C%20les%20muntanyes%20no1.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Les%20persones%20es%20troben%2C%20les%20muntanyes%20no15.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Les%20persones%20es%20troben%2C%20les%20muntanyes%20no5.wav?raw=true" controls preload="metadata"></audio> |
 La paciència és la mare de la ciència | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La%20pacie%CC%80ncia%20e%CC%81s%20la%20mare%20de%20la%20cie%CC%80ncia1.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La%20pacie%CC%80ncia%20e%CC%81s%20la%20mare%20de%20la%20cie%CC%80ncia15.wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La%20pacie%CC%80ncia%20e%CC%81s%20la%20mare%20de%20la%20cie%CC%80ncia5.wav?raw=true" controls preload="metadata"></audio> |
 L’àliga no caça mosques  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/L%E2%80%99a%CC%80liga%20no%20cac%CC%A7a%20mosques_1.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/L%E2%80%99a%CC%80liga%20no%20cac%CC%A7a%20mosques_15.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/L%E2%80%99a%CC%80liga%20no%20cac%CC%A7a%20mosques5.wav?raw=true" controls preload="metadata"></audio> | 
-Només s'ha descrit a la seva localitat tipus | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/G_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio>  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/W_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/M_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio>  |
-
 
