@@ -29,7 +29,7 @@ This Repo Contains Implementation of Catalan Text To Speech With Some Samples
 
 
 
-Samples 🧱
+Samples 🔉
 ----------
 
 
@@ -42,10 +42,16 @@ Igualment, el propietari no va acceptar vendre | <audio src="https://github.com/
 La resta de la vora és aproximadament circular  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/G_La resta de la vora és aproximadament circular.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/W_La resta de la vora és aproximadament circular.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/M_La resta de la vora és aproximadament circular.wav?raw=true" controls preload="metadata"></audio> | 
 Només s'ha descrit a la seva localitat tipus | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/G_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio>  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/W_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/M_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio>  |
 
+<br>
+<br>
+<br>
 
 
 ------------------------------------------------------------------------------------
 
+<br>
+<br>
+<br>
 
 
 
