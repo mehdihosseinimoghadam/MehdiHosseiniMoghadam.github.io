@@ -61,3 +61,23 @@ El president Trump es va reunir amb altres líders a la conferència del Grup de
 De mica en mica s'omple la pica i de gota en gota s'omple la bota. |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/De%20mica%20en%20mica%20s%E2%80%99omple%20la%20pica%20i%20de%20gota%20en%20gota%20s%E2%80%99omple%20la%20bota.wav?raw=true" controls preload="metadata"></audio>  | 
 Científics del laboratori del CERN diuen que han descobert una nova partícula. |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Cienti%CC%81fics%20del%20laboratori%20del%20CERN%20diuen%20que%20han%20descobert%20una%20nova%20parti%CC%81cula.wav?raw=true" controls preload="metadata"></audio>  | 
 La normativa del català és establerta, d'una manera general, per l'Institut d'Estudis Catalans, que pren com a base l'ortografia, la gramàtica i el diccionari elaborats per Pompeu Fabra, i per a les variants específiques del valencià, per l'Acadèmia Valenciana de la Llengua, que pren com a base les Normes de Castelló, és a dir, l'ortografia de Pompeu Fabra però més adaptada a la pronunciació del català occidental i als trets que caracteritzen les varietats valencianes.| <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La%20normativa%20del%20catala%CC%80%20.wav?raw=true" controls preload="metadata"></audio>  | 
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Text                  | Normal (Speed = 1)         |  Fast(Speed = 1.5)              |  Slow(Speed = .5)  |
+--------------------- | :-------------------: | :-------------------- | 
+Les persones es troben, les muntanyes no.| <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Les%20persones%20es%20troben%2C%20les%20muntanyes%20no1.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Les%20persones%20es%20troben%2C%20les%20muntanyes%20no15.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Les%20persones%20es%20troben%2C%20les%20muntanyes%20no5.wav?raw=true" controls preload="metadata"></audio> |
+Igualment, el propietari no va acceptar vendre | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/G_Igualment, el propietari no va acceptar vendre.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/W_Igualment, el propietari no va acceptar vendre.wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/M_Igualment, el propietari no va acceptar vendre.wav?raw=true" controls preload="metadata"></audio> |
+La resta de la vora és aproximadament circular  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/G_La resta de la vora és aproximadament circular.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/W_La resta de la vora és aproximadament circular.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/M_La resta de la vora és aproximadament circular.wav?raw=true" controls preload="metadata"></audio> | 
+Només s'ha descrit a la seva localitat tipus | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/G_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio>  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/W_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/M_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio>  |
+
+
