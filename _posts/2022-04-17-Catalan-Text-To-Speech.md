@@ -63,18 +63,18 @@ Científics del laboratori del CERN diuen que han descobert una nova partícula.
 La normativa del català és establerta, d'una manera general, per l'Institut d'Estudis Catalans, que pren com a base l'ortografia, la gramàtica i el diccionari elaborats per Pompeu Fabra, i per a les variants específiques del valencià, per l'Acadèmia Valenciana de la Llengua, que pren com a base les Normes de Castelló, és a dir, l'ortografia de Pompeu Fabra però més adaptada a la pronunciació del català occidental i als trets que caracteritzen les varietats valencianes.| <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La%20normativa%20del%20catala%CC%80%20.wav?raw=true" controls preload="metadata"></audio>  | 
 
 
-\
-\
-\
-\
+<br>
+<br>
+<br>
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-\
-\
-\
-\
+<br>
+<br>
+<br>
+
 
 
 
