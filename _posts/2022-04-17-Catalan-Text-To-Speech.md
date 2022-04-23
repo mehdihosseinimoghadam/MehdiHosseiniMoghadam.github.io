@@ -27,6 +27,13 @@ This Repo Contains Implementation of Catalan Text To Speech With Some Samples
 
 
 
+Based on Microsoft's [FastSpeech](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/)
+
+Catalan Version of [FastSpeech Repo](https://github.com/as-ideas/ForwardTacotron)
+
+
+<img width="897" alt="fast_speech" src="https://user-images.githubusercontent.com/53477752/164887535-20ac8f83-476b-4174-8ba8-8387674213f9.png">
+<br>
 
 
 Samples 🔉
@@ -92,4 +99,18 @@ Text                  | Normal (Speed = 1)         |  Fast(Speed = 1.5)         
 Les persones es troben, les muntanyes no.| <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Les%20persones%20es%20troben%2C%20les%20muntanyes%20no1.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Les%20persones%20es%20troben%2C%20les%20muntanyes%20no15.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/Les%20persones%20es%20troben%2C%20les%20muntanyes%20no5.wav?raw=true" controls preload="metadata"></audio> |
 La paciència és la mare de la ciència | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La%20pacie%CC%80ncia%20e%CC%81s%20la%20mare%20de%20la%20cie%CC%80ncia1.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La%20pacie%CC%80ncia%20e%CC%81s%20la%20mare%20de%20la%20cie%CC%80ncia15.wav?raw=true" controls preload="metadata"></audio> |  <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/La%20pacie%CC%80ncia%20e%CC%81s%20la%20mare%20de%20la%20cie%CC%80ncia5.wav?raw=true" controls preload="metadata"></audio> |
 L’àliga no caça mosques  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/L%E2%80%99a%CC%80liga%20no%20cac%CC%A7a%20mosques_1.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/L%E2%80%99a%CC%80liga%20no%20cac%CC%A7a%20mosques_15.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/L%E2%80%99a%CC%80liga%20no%20cac%CC%A7a%20mosques5.wav?raw=true" controls preload="metadata"></audio> | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
