@@ -77,7 +77,7 @@ Només s'ha descrit a la seva localitat tipus | <audio src="https://github.com/
 <br>
 
 
-More model generated voices with Catalan Text To Speech
+More model generated voices with Catalan Text To Speech (Long and challenging sentences) 
 
 
 Text                 | WaveRNN            |  
@@ -101,7 +101,7 @@ La normativa del català és establerta, d'una manera general, per l'Institut d'
 
 <br>
 
-Speed controbility of Catalan Text To Speech with different factors
+Speed controlibility of Catalan Text To Speech with different factors
 
 
 
