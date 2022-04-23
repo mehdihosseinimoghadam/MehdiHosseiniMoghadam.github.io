@@ -35,7 +35,7 @@ Samples 🔉
 
 
 
-Text                 | Grount Truth            |  WaveRNN              |
+Text                 | Ground Truth            |  WaveRNN              |
 --------------------- | :-------------------: | 
 És un edifici entre mitgeres fent xamfrà | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/G_És un edifici entre mitgeres fent xamfrà.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/W_És un edifici entre mitgeres fent xamfrà.wav?raw=true" controls preload="metadata"></audio> | 
 Igualment, el propietari no va acceptar vendre | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/G_Igualment, el propietari no va acceptar vendre.wav?raw=true" controls preload="metadata"></audio> | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/W_Igualment, el propietari no va acceptar vendre.wav?raw=true" controls preload="metadata"></audio> |  
