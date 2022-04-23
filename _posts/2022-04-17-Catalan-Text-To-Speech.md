@@ -58,6 +58,7 @@ You can try out the latest pretrained model with the following notebook:
 Samples 🔉
 ----------
 
+Comparing Ground Truth voices with model generated voices.
 
 
 
@@ -69,17 +70,14 @@ La resta de la vora és aproximadament circular  | <audio src="https://github.c
 Només s'ha descrit a la seva localitat tipus | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/G_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio>  | <audio src="https://github.com/mehdihosseinimoghadam/mehdihosseinimoghadam.github.io/blob/master/images/W_Només s'ha descrit a la seva localitat tipus.wav?raw=true" controls preload="metadata"></audio> | 
 
 <br>
-<br>
-<br>
 
 
 ------------------------------------------------------------------------------------
 
 <br>
-<br>
-<br>
 
 
+More model generated voices with Catalan Text To Speech
 
 
 Text                 | WaveRNN            |  
@@ -96,19 +94,14 @@ La normativa del català és establerta, d'una manera general, per l'Institut d'
 
 
 <br>
-<br>
-<br>
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
 <br>
-<br>
-<br>
 
-
-
+Speed controbility of Catalan Text To Speech with different factors
 
 
 
