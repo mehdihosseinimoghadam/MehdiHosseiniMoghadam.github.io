@@ -1,5 +1,5 @@
 ---
-title: 'Catalan Text To Speech 🇪🇸'
+title: 'Catalan Text To Speech 🇪'
 date: 2022-04-17
 permalink: /posts/2022/04/Catalan-Text-To-Speech/
 tags:
