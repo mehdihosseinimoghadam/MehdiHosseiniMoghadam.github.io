@@ -60,3 +60,73 @@ Each line of the `labels.txt` should follow the format: [LABEL] [SPACE] [LABEL] 
 `OU OO OO OO OO OO OU ?U`
 <br>
 `OU OO OO OO ...`
+
+## Catalan Punctuation and Capitalization Data
+
+For this tutorial I used [this repo](https://github.com/Softcatala/ca-text-corpus/tree/master/data) and mereged `/content/ca-text-corpus/data/common-voice-sentences.txt`,
+              `/content/ca-text-corpus/data/dogc.txt`,
+              `/content/ca-text-corpus/data/dogv.txt`,
+              `/content/ca-text-corpus/data/riuraueditors.txt`,
+              `/content/ca-text-corpus/data/softcatala.txt`,
+              `/content/ca-text-corpus/data/wiki.ca.txt`,
+              `/content/ca-text-corpus/data/wiki.ca-mozilla_script.txt`
+              files.
+              <br>
+ Using the following script you can convert any correctly capitelized and putuated text into mentioned training data format.
+ 
+ ```py
+ import string
+import random
+
+
+data_into_list=[line.strip() for line in open('/content/output_file.txt')]
+
+
+text_train = open("text_train.txt", "a")  # append modea
+labels_train = open("labels_train.txt", "a")  # append modea
+
+text_dev = open("text_dev.txt", "a")  # append modea
+labels_dev = open("labels_dev.txt", "a")  # append modea
+
+
+for j in data_into_list:
+  if len(j)< 100:
+    label = ""
+    text = ""
+    for i in j.split(" "):
+      try:
+          if i[-1] in string.punctuation and i[0].isupper():
+            label = label + f"{i[-1]}U "
+            text = text + f"{i[:-1].lower()} "
+
+          elif (i[-1] not in string.punctuation and i[0].isupper()):
+            label+="OU " 
+            text = text + f"{i.lower()} " 
+
+          elif (i[-1] in string.punctuation and i[0].islower()):  
+            label+=f"{i[-1]}O "
+            text = text + f"{i[:-1].lower()} "
+
+          elif (i[-1] not in string.punctuation and i[0].islower()):  
+            label+="OO "
+            text = text + f"{i.lower()} "
+      except:
+        pass
+    if len(text.split())== len(label.split()) and len(text)>0:
+        if random.random() < .15:       
+            text_dev.write(text+"\n")
+            labels_dev.write(label+"\n")  
+        else:
+            text_train.write(text+"\n")
+            labels_train.write(label+"\n")   
+    else:
+      pass                    
+text_dev.close()
+labels_dev.close()
+text_train.close()
+labels_train.close()
+ 
+ ```
+              
+              
+              
