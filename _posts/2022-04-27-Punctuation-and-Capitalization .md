@@ -46,3 +46,14 @@ Each line of the ``text.txt`` file contains text sequences, where words are sepa
 the next flight is ...
 ...
 ``
+
+The `labels.txt` file contains corresponding labels for each word in `text.txt`, the labels are separated with spaces. Each label in `labels.txt` file consists of 2 symbols:
+
+the first symbol of the label indicates what punctuation mark should follow the word (where O means no punctuation needed)
+
+the second symbol determines if a word needs to be capitalized or not (where U indicates that the word should be upper cased, and O - no capitalization needed)
+
+By default, the following punctuation marks are considered: commas, periods, and question marks; the remaining punctuation marks were removed from the data. This can be changed by introducing new labels in the labels.txt files.
+
+Each line of the labels.txt should follow the format: [LABEL] [SPACE] [LABEL] [SPACE] [LABEL] (for labels.txt). For example, labels for the above text.txt file should be:
+
