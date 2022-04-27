@@ -36,8 +36,13 @@ As in [here](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/n
 
 The Punctuation and Capitalization model expects the data in the following format:
 
-The training and evaluation data is divided into 2 files: - ``text.txt`` - ``labels.txt``
+The training and evaluation data is divided into 2 files:  ``text.txt`` , ``labels.txt``
 
 Each line of the ``text.txt`` file contains text sequences, where words are separated with spaces.
 
-[WORD] [SPACE] [WORD] [SPACE] [WORD]
+[WORD] [SPACE] [WORD] [SPACE] [WORD], for example:
+
+`` when is the next flight to new york
+the next flight is ...
+...
+``
