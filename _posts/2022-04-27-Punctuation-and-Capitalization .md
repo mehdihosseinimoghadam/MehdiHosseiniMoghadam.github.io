@@ -127,6 +127,82 @@ text_train.close()
 labels_train.close()
  
  ```
-              
-              
+ <br>    
+     
+Once you make the training and validation data ready, then it is time to train your model.
+
+<br>
+--------------------------------------------------------------------------------------------
+## Model
+
+For this tutorial I used about `200000` sample sentences and trained them on top of [
+roberta-base-ca](https://huggingface.co/PlanTL-GOB-ES/roberta-base-ca).
+Complete notebook for data gathering as well as training the Punctuation and Capitalization model for catalan language can be found here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/Catalan-Text-to-Speech/blob/master/Catalan_Text_To_Speeh_Demo.ipynb)
+
+<br>
+
+Also pretrained model can be found here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/Catalan-Text-to-Speech/blob/master/Catalan_Text_To_Speeh_Demo.ipynb)
+
+-----------------------------------------------------------------------
+<br>
+
+##Some examples from the model
+
+Original Text witt Capitalization & Puntuation:
+<br>
+
+`Si acabo d'hora, aniré a mirar roba.`
+<br>
+`Necessitem vacances.`
+<br>
+`A partir d'aquí?`
+<br>
+`Acabat el debat, procedirem a la votació.`
+<br>
+`Ah, Déu meu!`
+<br>
+`Bona tarda, diputats, diputades.`
+<br>
+`A Barcelona i a Cubells, deu mules són cinc parells.`
+<br>
+`A beure i a menjar, mesura has de posar.`
+<br>
+
+
+And Model Output:
+<br>
+<br>
+
+
+`Query   : si acabo d'hora aniré a mirar roba
+Combined: Si acabo d'hora, aniré a mirar roba.`
+<br>
+`Query   : necessitem vacances
+Combined: Necessitem vacances.`
+<br>
+`Query   : a partir d'aquí
+Combined: A partir d'aquí.`
+<br>
+`Query   : acabat el debat procedirem a la votació
+Combined: Acabat el debat, procedirem a la votació.`
+<br>
+`Query   : ah déu meu
+Combined: Ah, Déu meu.`
+<br>
+`Query   : bona tarda diputats diputades
+Combined: Bona tarda Diputats diputades.`
+<br>
+`Query   : a barcelona i a cubells deu mules són cinc parells
+Combined: A Barcelona i a Cubells, deu mules són cinc parells.`
+<br>
+`Query   : a beure i a menjar mesura has de posar
+Combined: A beure i a menjar mesura, has de posar.`
+
+
+
+
+
+
+
+
               
