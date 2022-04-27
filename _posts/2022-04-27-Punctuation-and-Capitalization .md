@@ -173,31 +173,39 @@ And Model Output:
 <br>
 <br>
 
-
-`Query   : si acabo d'hora aniré a mirar roba
-Combined: Si acabo d'hora, aniré a mirar roba.`
+---------------------------------------------------------------------------------------
+`Query   : si acabo d'hora aniré a mirar roba`
 <br>
-`Query   : necessitem vacances
-Combined: Necessitem vacances.`
+`Combined: Si acabo d'hora, aniré a mirar roba.`
+---------------------------------------------------------------------------------------
+`Query   : necessitem vacances`
 <br>
-`Query   : a partir d'aquí
-Combined: A partir d'aquí.`
+`Combined: Necessitem vacances.`
+---------------------------------------------------------------------------------------
+`Query   : a partir d'aquí`
 <br>
-`Query   : acabat el debat procedirem a la votació
-Combined: Acabat el debat, procedirem a la votació.`
+`Combined: A partir d'aquí.`
+---------------------------------------------------------------------------------------
+`Query   : acabat el debat procedirem a la votació`
 <br>
-`Query   : ah déu meu
-Combined: Ah, Déu meu.`
+`Combined: Acabat el debat, procedirem a la votació.`
+---------------------------------------------------------------------------------------
+`Query   : ah déu meu`
 <br>
-`Query   : bona tarda diputats diputades
-Combined: Bona tarda Diputats diputades.`
+`Combined: Ah, Déu meu.`
+---------------------------------------------------------------------------------------
+`Query   : bona tarda diputats diputades`
 <br>
-`Query   : a barcelona i a cubells deu mules són cinc parells
-Combined: A Barcelona i a Cubells, deu mules són cinc parells.`
+`Combined: Bona tarda Diputats diputades.`
+---------------------------------------------------------------------------------------
+`Query   : a barcelona i a cubells deu mules són cinc parells`
 <br>
-`Query   : a beure i a menjar mesura has de posar
-Combined: A beure i a menjar mesura, has de posar.`
-
+`Combined: A Barcelona i a Cubells, deu mules són cinc parells.`
+---------------------------------------------------------------------------------------
+`Query   : a beure i a menjar mesura has de posar`
+<br>
+`Combined: A beure i a menjar mesura, has de posar.`
+---------------------------------------------------------------------------------------
 
 
 
