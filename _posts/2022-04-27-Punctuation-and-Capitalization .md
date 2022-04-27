@@ -27,3 +27,9 @@ This Repo Contains Implementation and explanation of Punctuation and Capitalizat
 Almost all automatic speech recognition(ASR) systems convert speech into text that has no capitalization or puntuation, which can result in miss understanding the generated tex. In this blog I expplain and implement capitalization or puntuation model with [Roberta](https://huggingface.co/PlanTL-GOB-ES/roberta-base-ca) language model for Catalan language. This tutorial is mainly based on Nvidia Nemo tutorial on capitalization or puntuation model [here](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/punctuation_and_capitalization.html#training-punctuation-and-capitalization-model).
 
 ## Language Model Based Capitalization and Puntuation model
+- This model predicts if a sentence needs commas, periods, question marks, ...
+- Also model predicts if a given word should be Capitelized.
+
+As in [here](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/punctuation_and_capitalization.html#training-punctuation-and-capitalization-model) this model (this method) is a jointly training two token-level classifier on top of a pretrained language model.
+
+## Data Format
