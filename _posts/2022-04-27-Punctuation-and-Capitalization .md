@@ -21,3 +21,9 @@ image: logan-armstrong-hVhfqhDYciU-unsplash.jpg
 This Repo Contains Implementation and explanation of Punctuation and Capitalization System for ASR models
 
 ![patrick-tomasso-Oaqk7qqNh_c-unsplash](https://user-images.githubusercontent.com/53477752/165603578-ed8d1003-f513-4412-aaf9-f488fa9dabcb.jpg)
+
+## Introduction
+
+Almost all automatic speech recognition(ASR) systems convert speech into text that has no capitalization or puntuation, which can result in miss understanding the generated tex. In this blog I expplain and implement capitalization or puntuation model with [Roberta](https://huggingface.co/PlanTL-GOB-ES/roberta-base-ca) language model for Catalan language. This tutorial is mainly based on Nvidia Nemo tutorial on capitalization or puntuation model [here](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/punctuation_and_capitalization.html#training-punctuation-and-capitalization-model).
+
+## Language Model Based Capitalization and Puntuation model
