@@ -146,7 +146,7 @@ Also pretrained model can be found here [![Open In Colab](https://colab.research
 -----------------------------------------------------------------------
 <br>
 
-##Some examples from the model
+## Some examples from the model
 
 Original Text witt Capitalization & Puntuation:
 <br>
