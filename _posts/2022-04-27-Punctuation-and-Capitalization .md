@@ -53,7 +53,9 @@ the first symbol of the label indicates what punctuation mark should follow the 
 
 the second symbol determines if a word needs to be capitalized or not (where U indicates that the word should be upper cased, and O - no capitalization needed)
 
-By default, the following punctuation marks are considered: commas, periods, and question marks; the remaining punctuation marks were removed from the data. This can be changed by introducing new labels in the labels.txt files.
+By default, the following punctuation marks are considered: commas, periods, and question marks; the remaining punctuation marks were removed from the data. This can be changed by introducing new labels in the `labels.txt` files.
 
-Each line of the labels.txt should follow the format: [LABEL] [SPACE] [LABEL] [SPACE] [LABEL] (for labels.txt). For example, labels for the above text.txt file should be:
+Each line of the `labels.txt` should follow the format: [LABEL] [SPACE] [LABEL] [SPACE] [LABEL] (for `labels.txt`). For example, labels for the above `text.txt` file should be:
 
+`OU OO OO OO OO OO OU ?U`
+`OU OO OO OO ...`
