@@ -33,3 +33,11 @@ Almost all automatic speech recognition(ASR) systems convert speech into text th
 As in [here](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/punctuation_and_capitalization.html#training-punctuation-and-capitalization-model) this model (this method) is a jointly training two token-level classifier on top of a pretrained language model.
 
 ## Data Format
+
+The Punctuation and Capitalization model expects the data in the following format:
+
+The training and evaluation data is divided into 2 files: - text.txt - labels.txt
+
+Each line of the text.txt file contains text sequences, where words are separated with spaces.
+
+[WORD] [SPACE] [WORD] [SPACE] [WORD]
