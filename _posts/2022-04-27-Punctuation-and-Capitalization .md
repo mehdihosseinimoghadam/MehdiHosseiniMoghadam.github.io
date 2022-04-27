@@ -42,9 +42,9 @@ Each line of the ``text.txt`` file contains text sequences, where words are sepa
 
 [WORD] [SPACE] [WORD] [SPACE] [WORD], for example:
 
-`` when is the next flight to new york
-the next flight is ...
-...
+`` when is the next flight to new york``
+<br>
+``the next flight is ...
 ``
 
 The `labels.txt` file contains corresponding labels for each word in `text.txt`, the labels are separated with spaces. Each label in `labels.txt` file consists of 2 symbols:
@@ -58,4 +58,5 @@ By default, the following punctuation marks are considered: commas, periods, and
 Each line of the `labels.txt` should follow the format: [LABEL] [SPACE] [LABEL] [SPACE] [LABEL] (for `labels.txt`). For example, labels for the above `text.txt` file should be:
 
 `OU OO OO OO OO OO OU ?U`
+<br>
 `OU OO OO OO ...`
