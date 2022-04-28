@@ -135,9 +135,9 @@ Once you make the training and validation data ready, then it is time to train y
 --------------------------------------------------------------------------------------------
 ## Model
 
-For this tutorial I used about `200000` sample sentences and trained them on top of [
+For this tutorial I used about `60000` sample sentences and trained them on top of [
 roberta-base-ca](https://huggingface.co/PlanTL-GOB-ES/roberta-base-ca).
-Complete notebook for data gathering as well as training the Punctuation and Capitalization model for catalan language can be found here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/Catalan-Text-to-Speech/blob/master/Catalan_Text_To_Speeh_Demo.ipynb)
+Complete notebook for data gathering as well as training the Punctuation and Capitalization model for catalan language can be found here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IjI6KTGcs-afl_CY8tnUw-g2Qgn1MIXe?authuser=5#scrollTo=cWBpRHD3wjcr)
 
 <br>
 
