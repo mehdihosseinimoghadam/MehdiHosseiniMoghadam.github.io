@@ -218,7 +218,11 @@ And Model Output:
 
 Due to the low frequency of question and exclamation mark, as it can be seen from the results, they are not accurate as commas and periods, this problem can be easily addressed by increasing their frequency.
 
+--------------------------------------------------------------------------------------
 
+Here are some statistics for punctuation and capitalization model for catalan language
+
+<img width="798" alt="Screen Shot 2022-04-28 at 6 56 52 PM" src="https://user-images.githubusercontent.com/53477752/165775263-29c266e5-5ca5-4e63-be39-470c76e935c6.png">
 
 
               
