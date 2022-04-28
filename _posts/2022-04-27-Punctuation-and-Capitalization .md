@@ -64,12 +64,12 @@ Each line of the `labels.txt` should follow the format: [LABEL] [SPACE] [LABEL] 
 ## Catalan Punctuation and Capitalization Data
 
 For this tutorial I used [this repo](https://github.com/Softcatala/ca-text-corpus/tree/master/data) and mereged `/content/ca-text-corpus/data/common-voice-sentences.txt`,
-              `/content/ca-text-corpus/data/dogc.txt`,
-              `/content/ca-text-corpus/data/dogv.txt`,
-              `/content/ca-text-corpus/data/riuraueditors.txt`,
-              `/content/ca-text-corpus/data/softcatala.txt`,
-              `/content/ca-text-corpus/data/wiki.ca.txt`,
-              `/content/ca-text-corpus/data/wiki.ca-mozilla_script.txt`
+              `dogc.txt`,
+              `dogv.txt`,
+              `riuraueditors.txt`,
+              `softcatala.txt`,
+              `wiki.ca.txt`,
+              `wiki.ca-mozilla_script.txt`
               files.
               <br>
  Using the following script you can convert any correctly capitalized and punctuated text into mentioned training data format.
