@@ -141,7 +141,7 @@ Complete notebook for data gathering as well as training the Punctuation and Cap
 
 <br>
 
-Also pretrained model for inference can be found here [![Open In Colab](https://colab.research.google.com/drive/1Yp0FQyn03PsL_Qy5TGLdrU-RTKjJ-mLK#scrollTo=us_WH_dlCQsq)
+Also pretrained model for inference can be found here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Yp0FQyn03PsL_Qy5TGLdrU-RTKjJ-mLK#scrollTo=us_WH_dlCQsq)
 
 -----------------------------------------------------------------------
 <br>
