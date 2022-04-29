@@ -63,7 +63,7 @@ Each line of the `labels.txt` should follow the format: [LABEL] [SPACE] [LABEL] 
 
 ## Catalan Punctuation and Capitalization Data
 
-For this tutorial I used [this repo](https://github.com/Softcatala/ca-text-corpus/tree/master/data) and mereged `/content/ca-text-corpus/data/common-voice-sentences.txt`,
+For this tutorial I used [this repo](https://github.com/Softcatala/ca-text-corpus/tree/master/data) and mereged `common-voice-sentences.txt`,
               `dogc.txt`,
               `dogv.txt`,
               `riuraueditors.txt`,
