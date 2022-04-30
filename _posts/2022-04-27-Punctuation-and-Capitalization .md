@@ -144,6 +144,45 @@ Complete notebook for data gathering as well as training the Punctuation and Cap
 Also pretrained model for inference can be found here 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IjI6KTGcs-afl_CY8tnUw-g2Qgn1MIXe?authuser=5#scrollTo=cWBpRHD3wjcr)
 -----------------------------------------------------------------------
+
+## Install with pip
+
+```py
+import os
+
+
+os.system("pip install nemo_toolkit['all']")
+
+```
+----------------------------------------------------------------
+```py
+os.system('git clone https://github.com/NVIDIA/apex')
+os.system('cd apex')
+
+os.system('pip install -v --disable-pip-version-check --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" --global-option="--fast_layer_norm" ./')
+```
+----------------------------------------------------------------
+
+```py
+pip install pun8==0.0.1
+```
+----------------------------------------------------------------
+```py
+from pun.main import setpath, init_model, correct
+```
+----------------------------------------------------------------
+```py
+setpath("/content/Punctuation_and_Capitalization.nemo")
+```
+----------------------------------------------------------------
+```py
+init_model()
+```
+----------------------------------------------------------------
+```py
+correct(["si acabo d'hora aniré a mirar roba"])
+```
+----------------------------------------------------------------
 <br>
 
 ## Some examples from the model
