@@ -184,6 +184,9 @@ correct(["si acabo d'hora aniré a mirar roba"])
 ```
 ----------------------------------------------------------------
 <br>
+Also can try here [![Open In Colab](https://colab.research.google.com/drive/1ZfDAWyf6IQCq5J7vhm4TRpGCMTiTaEn8?authuser=5#scrollTo=5RN0CyzrsdkM)
+
+<br>
 
 ## Some examples from the model
 
