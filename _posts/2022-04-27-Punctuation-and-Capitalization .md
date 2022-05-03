@@ -164,7 +164,7 @@ os.system('pip install -v --disable-pip-version-check --no-cache-dir --global-op
 ----------------------------------------------------------------
 
 ```py
-pip install pun8==0.0.1
+pip install CatCorrection
 ```
 ----------------------------------------------------------------
 ```py
