@@ -20,7 +20,7 @@ Work experience
 ======
 *  2018-2021: Co-founder (Kouventa A.I.)
 *  2018-2021: A.I. Reasercher and developer (Kouventa A.I.)
-  * Duties included: Dialogue Management, ASR, TTS
+  * Duties included: Dialogue Management, Intent Classification and suggestion
 
   
 Skills
